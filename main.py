@@ -90,4 +90,4 @@ def plot_data():
 
 if __name__ == "__main__":
     get_region_data()
-    plot_data()
+    # plot_data()
