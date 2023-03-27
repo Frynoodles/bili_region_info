@@ -26,7 +26,7 @@
 ## 使用的API及说明
 1.https://api.bilibili.com/x/web-interface/ranking/region?day=7&rid=157
 
-爬取分区热门视频的信息，rid为分区对应tid号，见[分区代码](https://socialsisteryi.github.io/bilibili-API-collect/docs/video/video_zone.html#%E5%8A%A8%E7%94%BB)
+爬取分区热门视频的信息，rid为分区对应tid号，见[分区代码](https://socialsisteryi.github.io/bilibili-API-collect/docs/video/video_zone.html#%E5%8A%A8%E7%94%BB)(有变化)
 
 2.https://s.search.bilibili.com/cate/search?main_ver=v3&search_type=video&view_type=hot_rank&copy_right=-1&new_web_tag=1&order=click&cate_id=182&page=1&pagesize=30&time_from=(开始日期)&time_to=(现在日期)
 
@@ -36,5 +36,3 @@
 
 ## 目前B站有21个有效大分区，各大分区下有众多小分区，小分区共计有115个（2023年3月27日）
 
-
-## 本库使用到了[bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)的部分API信息和分区统计，感谢大佬
